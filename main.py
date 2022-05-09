@@ -17,7 +17,7 @@ if __name__ == '__main__':
             print("You will be asked to fill in for each position of the starting grid,\nthe corresponding person in the form of name-lastname (EX : max-verstappen).")
             print("You will then get the predictions of the algorithm. Write -stop- to finish th grid.\n")
             start_grid.addPilot() #start grid creation
-            print("Grid Finished.\nPrediction in Progress...\n")
+            print("\nGrid Finished.\nPrediction in Progress...\n")
             pred = start_grid.makePrediction() #final grid creation
             for i in range(len(pred)): print(str(i + 1) + '. ' + str(pred[i])) #print of the prediction
         elif choice == 2:
