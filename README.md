@@ -7,9 +7,15 @@ In order to use the code correctly, we invite you to follow the few steps below 
 1. Run the program.
 2. Follow the instructions provided by the program.
 
-The GIF below illustrates the different steps detailed above : 
+The GIF below illustrates the different steps detailed above :
 
-![](assets/PROJ632.gif)
+Mode No. 1 :
+
+![](assets/PROJ632-1.gif)
+
+Mode No. 2 :
+
+![](assets/PROJ632-2.gif)
 
 ## WARNING
 The code requires some modification to follow the current season in real time.
