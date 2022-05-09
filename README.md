@@ -11,11 +11,11 @@ The GIF below illustrates the different steps detailed above :
 
 Mode No. 1 :
 
-![](assets/PROJ632-1.gif)
+![](assets/f1-mode1.gif)
 
 Mode No. 2 :
 
-![](assets/PROJ632-2.gif)
+![](assets/f1-mode2.gif)
 
 ## WARNING
 The code requires some modification to follow the current season in real time.
